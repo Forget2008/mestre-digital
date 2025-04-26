@@ -24,7 +24,7 @@ Este site apresenta meus serviços, projetos em destaque, formas de contato e cu
 
 ## 🌐 Publicado em
 
-[https://seuusuario.github.io/mestre-digital](https://seuusuario.github.io/mestre-digital)
+[https://forget2008.github.io/mestre-digital/](https://forget2008.github.io/mestre-digital/)
 
 ## 📲 Contato
 
