@@ -1,4 +1,3 @@
-
 # 👨‍💻 Mestre Digital - Guilherme Rangel
 
 Landing page pessoal de **Guilherme de Souza Lopes Rangel**, também conhecido como **Mestre Digital** — desenvolvedor FullStack, especialista em Inteligência Artificial e programador freelancer.
