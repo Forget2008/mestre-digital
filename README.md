@@ -30,5 +30,5 @@ Este site apresenta meus serviços, projetos em destaque, formas de contato e cu
 
 - WhatsApp: [clique aqui](https://wa.me/12991559619)
 - GitHub: [github.com/seuusuario](https://github.com/seuusuario)
-- LinkedIn: [linkedin.com/in/guilherme-rangel]([https://www.linkedin.com/in/guilherme-rangel-9ba045247/]])
+- LinkedIn: [linkedin.com/in/guilherme-rangel]([https://www.linkedin.com/in/guilherme-rangel-9ba045247/])
 - Email: mestredigital.gnt@gmail.com
