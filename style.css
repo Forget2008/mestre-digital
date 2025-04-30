@@ -1,19 +1,27 @@
-body {
+html, body {
   margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
   font-family: 'Orbitron', sans-serif;
   background: #0f0f0f;
   color: #fff;
 }
+
 canvas#matrix {
   position: fixed;
   top: 0;
   left: 0;
   z-index: -1;
+  width: 100vw;
+  height: 100vh;
 }
+
 .content {
   position: relative;
   z-index: 1;
 }
+
 .hero {
   text-align: center;
   padding: 60px 20px;
@@ -34,6 +42,7 @@ canvas#matrix {
   text-decoration: none;
   border-radius: 6px;
 }
+
 section {
   max-width: 1000px;
   margin: auto;
@@ -54,6 +63,18 @@ h2 {
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px #000;
+}
+.card a {
+  display: inline-block;
+  margin-top: 10px;
+  background: #FF3D00;
+  padding: 8px 16px;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.card a:hover {
+  background: #ff7043;
 }
 footer {
   text-align: center;
