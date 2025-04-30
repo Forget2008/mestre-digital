@@ -4,13 +4,19 @@ Landing page pessoal de **Guilherme de Souza Lopes Rangel**, também conhecido c
 
 ## 🚀 Sobre o Projeto
 
-Este site apresenta meus serviços, projetos em destaque, formas de contato e currículo. Foi criado com:
+Este site apresenta meus serviços, projetos reais, formas de contato e currículo. Foi criado com:
 
-- HTML5
-- CSS3
-- Estilo tech moderno (preto + vermelho)
+- HTML5 + CSS3
+- JavaScript (efeito Matrix)
+- Layout tech moderno (preto + vermelho)
+- Responsivo para desktop e mobile
 - Personagem Mestre Digital
-- Layout responsivo para desktop e mobile
+
+## 🧠 Destaques da Página
+
+- 🔴 **Fundo animado estilo Matrix em vermelho**
+- 🧩 Seção com **8 projetos reais desenvolvidos**
+- 📲 Botões de contato com WhatsApp, GitHub, LinkedIn e acesso ao currículo
 
 ## 📁 Estrutura
 
@@ -18,6 +24,7 @@ Este site apresenta meus serviços, projetos em destaque, formas de contato e cu
 📦 mestre-digital
  ┣ 📄 index.html
  ┣ 📄 style.css
+ ┣ 📄 matrix.js
  ┣ 📄 personagem-mestre-digital.png
  ┗ 📄 Curriculo_Guilherme_MestreDigital.pdf
 ```
@@ -29,6 +36,6 @@ Este site apresenta meus serviços, projetos em destaque, formas de contato e cu
 ## 📲 Contato
 
 - WhatsApp: [clique aqui](https://wa.me/12991559619)
-- GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- GitHub: [github.com/forget2008](https://github.com/forget2008)
 - LinkedIn: [linkedin.com/in/guilherme-rangel](https://www.linkedin.com/in/guilherme-rangel-9ba045247/)
 - Email: mestredigital.gnt@gmail.com
